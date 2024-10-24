@@ -20,6 +20,7 @@ Hello, my name is Aindrila Paul. I am an Engineering Student at Kalinga Institut
 If you would like to contribute to this project, you can do so by creating a PR ; and to support my work, you can click on the projects you like and reward a star.
 
 # Socials
- __Aindrila Paul__
-Instagram : https://instagram.com/aindrila_paul13/
-Github : https://github.com/aindrila-paul/
+
+__Aindrila Paul__
+ 1. Instagram : https://instagram.com/aindrila_paul13/
+ 2. Github : https://github.com/aindrila-paul/
