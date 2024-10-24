@@ -1,4 +1,4 @@
-# Game-Console
+# Game-Bonanza
 A simple gaming console written in python implementing various gaming logics and python libraries
 
 # Highlights
@@ -6,10 +6,10 @@ A simple gaming console written in python implementing various gaming logics and
 2. Supports Rock, Paper and Scissors, Tic Tac Toe, Snake Game and Pong
 
 # Getting Started
-1. git clone https://github.com/aindrila-paul/Game-Console.git - clone this project to your computer
-2. cd Game-Console - go inside the project directory
-3. pip install -r requirement.txt to install libraries.
-4. python ./console.py to execute the python file.
+1.  git clone __https://github.com/aindrila-paul/Game-Bonanza.git__ - clone this project to your computer
+2. cd __Game-Bonanza__ - go inside the project directory
+3. __pip install -r requirements.txt__ to install libraries.
+4. __python ./console.py__ to execute the python file.
 
 # Requirements
 Python must be installed in your device
