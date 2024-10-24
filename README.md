@@ -1,6 +1,5 @@
 # Game-Console
-A simple gaming console written in python
-A fast and simple URL Shortener to shorten big urls into short and time efficient ones.
+A simple gaming console written in python implementing various gaming logics and python libraries
 
 # Highlights
 1. Interactive and simple user interface
