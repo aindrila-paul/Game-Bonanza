@@ -6,13 +6,10 @@ A simple gaming console written in python implementing various gaming logics and
 2. Supports Rock, Paper and Scissors, Tic Tac Toe, Snake Game and Pong
 
 # Getting Started
-$ git clone https://github.com/aindrila-paul/Game-Console.git - clone this project to your computer
-
-$ cd Game-Console - go inside the project directory
-
-pip install -r requirement.txt to install libraries.
-
-python ./console.py to execute the python file.
+1. git clone https://github.com/aindrila-paul/Game-Console.git - clone this project to your computer
+2. cd Game-Console - go inside the project directory
+3. pip install -r requirement.txt to install libraries.
+4. python ./console.py to execute the python file.
 
 # Requirements
 Python must be installed in your device
